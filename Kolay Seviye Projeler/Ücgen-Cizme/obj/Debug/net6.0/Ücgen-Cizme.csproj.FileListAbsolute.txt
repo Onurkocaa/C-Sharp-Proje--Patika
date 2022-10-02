@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\bin\Debug\net6.0\Ücgen-Cizme.exe
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\bin\Debug\net6.0\Ücgen-Cizme.deps.json
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\bin\Debug\net6.0\Ücgen-Cizme.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\bin\Debug\net6.0\Ücgen-Cizme.dll
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\bin\Debug\net6.0\Ücgen-Cizme.pdb
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\Ücgen-Cizme.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\Ücgen-Cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\Ücgen-Cizme.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\Ücgen-Cizme.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\Ücgen-Cizme.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\Ücgen-Cizme.dll
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\refint\Ücgen-Cizme.dll
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\Ücgen-Cizme.pdb
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\Ücgen-Cizme.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\Ücgen-Cizme\obj\Debug\net6.0\ref\Ücgen-Cizme.dll

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\bin\Debug\net6.0\KarakterTersYazdırma.exe
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\bin\Debug\net6.0\KarakterTersYazdırma.deps.json
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\bin\Debug\net6.0\KarakterTersYazdırma.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\bin\Debug\net6.0\KarakterTersYazdırma.dll
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\bin\Debug\net6.0\KarakterTersYazdırma.pdb
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\KarakterTersYazdırma.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\KarakterTersYazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\KarakterTersYazdırma.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\KarakterTersYazdırma.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\KarakterTersYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\KarakterTersYazdırma.dll
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\refint\KarakterTersYazdırma.dll
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\KarakterTersYazdırma.pdb
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\KarakterTersYazdırma.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\KarakterTersYazdırma\obj\Debug\net6.0\ref\KarakterTersYazdırma.dll

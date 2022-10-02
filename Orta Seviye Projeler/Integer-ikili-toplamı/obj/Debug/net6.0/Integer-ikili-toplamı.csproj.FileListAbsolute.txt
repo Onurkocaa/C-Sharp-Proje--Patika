@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\bin\Debug\net6.0\Integer-ikili-toplamı.exe
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\bin\Debug\net6.0\Integer-ikili-toplamı.deps.json
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\bin\Debug\net6.0\Integer-ikili-toplamı.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\bin\Debug\net6.0\Integer-ikili-toplamı.dll
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\bin\Debug\net6.0\Integer-ikili-toplamı.pdb
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\Integer-ikili-toplamı.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\Integer-ikili-toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\Integer-ikili-toplamı.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\Integer-ikili-toplamı.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\Integer-ikili-toplamı.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\Integer-ikili-toplamı.dll
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\refint\Integer-ikili-toplamı.dll
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\Integer-ikili-toplamı.pdb
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\Integer-ikili-toplamı.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\Integer-ikili-toplamı\obj\Debug\net6.0\ref\Integer-ikili-toplamı.dll
